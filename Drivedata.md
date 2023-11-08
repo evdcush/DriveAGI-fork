@@ -142,7 +142,7 @@ Challenges">Waymo Open Dataset Challenges</a></td>
       <td> ✗</td>
     	<td> GPS&IMU </td>
       <td>2D BBox & 3D BBox</td>
-      <td><a href="https://www.cvlibs.net/publications/Geiger2012CVPR.pdf" target="_blank" title="Homepage">Info</a></td>
+      <td><a href="https://www.cvlibs.net/publications/Geiger2012CVPR.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 <tr>
       <td><a href="https://www.cityscapes-dataset.com/" target="_blank" title="Homepage">Cityscapes</a></td>  	  <td> 2016</td>
@@ -153,7 +153,7 @@ Challenges">Waymo Open Dataset Challenges</a></td>
       <td> ✗ </td>
     	<td> </td>
       <td>2D Seg</td>
-      <td><a href="https://arxiv.org/abs/1604.01685" target="_blank" title="Homepage">Info</a></td>
+      <td><a href="https://arxiv.org/abs/1604.01685" target="_blank" title="Homepage">Link</a></td>
 </tr>
 <tr>
 <tr>
