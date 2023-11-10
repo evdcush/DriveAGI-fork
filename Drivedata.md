@@ -30,174 +30,213 @@
 
 <table>
 <capital></capital>
-
-<tr>
-    <td >Title</td>
-    <td >Host</td>
-    <td >Year</td>
-    <td >Task</td>
-    <td >Entry</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+    <th >Title</th>
+    <th >Host</th>
+    <th >Year</th>
+    <th >Task</th>
+    <th >Entry</th>
 </tr>
 
-<tr>
-      <td rowspan=4 ><a href="https://opendrivelab.com/AD23Challenge.html" target="_blank" title="Autonomous Driving Challenge">Autonomous Driving Challenge</a></td>
-  	  <td rowspan=4 > OpenDriveLab</td>
-      <td rowspan=4 >CVPR2023</td>
+<tr align="middle">
+      <td rowspan=7 ><a href="https://opendrivelab.com/AD23Challenge.html" target="_blank" title="Autonomous Driving Challenge">Autonomous Driving Challenge</a></td>
+  	  <td rowspan=7 > OpenDriveLab</td>
+      <td rowspan=7 >CVPR2023</td>
        <td>Perception / OpenLane Topology</td>
-    	<td rowspan=4> 111 </td>
+    	<td rowspan=7> 111 </td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / Online HD Map Construction</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / 3D Occupancy Prediction</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
         <td>Prediction & Planning / nuPlan Planning</td>
 </tr>
 
-<tr>
-      <td rowspan=12 ><a href="https://waymo.com/open/challenges/" target="_blank" title="Waymo Open Dataset
+<tr align="middle">
+      <td rowspan=23 ><a href="https://waymo.com/open/challenges/" target="_blank" title="Waymo Open Dataset
 Challenges">Waymo Open Dataset Challenges</a></td>
-  	  <td rowspan=12 > Waymo</td>
-      <td rowspan=4>CVPR2023</td>
+  	  <td rowspan=23 > Waymo</td>
+      <td rowspan=8>CVPR2023</td>
        <td>Perception / 2D Video Panoptic Segmentation</td>
-    	<td rowspan=4> 35 </td>
+    	<td rowspan=8> 35 </td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / Pose Estimation</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Prediction / Motion Prediction</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
     <td>Prediction / Sim Agents</td>
 </tr>
-      <td rowspan=4>CVPR2022</td>
+<tr align="middle"> </tr>
+<tr align="middle"> 
+      <td rowspan=8>CVPR2022</td>
        <td>Prediction / Motion Prediction</td>
-    	<td rowspan=4> 128 </td>
-<tr>
+    	<td rowspan=8> 128 </td>
+</tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Prediction / Occupancy and Flow Prediction</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / 3D Semantic Segmentation</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / 3D Camera-only Detection</td>
 </tr>
- <td rowspan=4>CVPR2021</td>
+<tr align="middle"> </tr>
+<tr align="middle"> 
+ <td rowspan=7>CVPR2021</td>
        <td>Prediction / Motion Prediction</td>
-    	<td rowspan=4> 115 </td>
-<tr>
+    	<td rowspan=7> 115 </td>
+  </tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Predirction / Interaction Prediction</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / Real-time 3D Detection</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>erception / Real-time 2D Detection</td>
 </tr>
-
-<tr>
-      <td rowspan=10 ><a href="https://www.argoverse.org/tasks.html" target="_blank" title="Argoverse
+<tr align="middle">
+      <td rowspan=19 ><a href="https://www.argoverse.org/tasks.html" target="_blank" title="Argoverse
 Challenges">Argoverse Challenges</a></td>
-  	  <td rowspan=10 > Argoverse</td>
-      <td rowspan=4>CVPR2023</td>
+  	  <td rowspan=19 > Argoverse</td>
+      <td rowspan=8>CVPR2023</td>
        <td>Prediction / Multi-agent Forecasting</td>
-    	<td rowspan=4> 81 </td>
+    	<td rowspan=8> 81 </td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception & Prediction / Unified Sensorbased Detection, Tracking, and Forecasting</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / LiDAR Scene Flow</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Prediction / 3D Occupancy Forecasting</td>
 </tr>
-<td rowspan=3>CVPR2022</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+  <td rowspan=6>CVPR2022</td>
        <td>Perception / 3D Object Detection</td>
-    	<td rowspan=3> 81 </td>
-<tr>
+    	<td rowspan=6> 81 </td> 
+</tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Prediction / Motion Forecasting</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / Stereo Depth Estimation</td>
 </tr>
-<td rowspan=3>CVPR2021</td>
+<tr align="middle"> </tr>
+<tr align="middle"> 
+      <td rowspan=5>CVPR2021</td>
        <td>Perception / Stereo Depth Estimation</td>
-    	<td rowspan=3> 368 </td>
-<tr>
+    	<td rowspan=5> 368 </td>
+</tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Prediction / Motion Forecasting</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / Streaming 2D Detection</td>
 </tr>
 
-<tr>
-      <td rowspan=3 ><a href="https://carlachallenge.org/" target="_blank" title="CARLA Autonomous Driving Challenge">CARLA Autonomous Driving Challenge</a></td>
-  	  <td rowspan=3 > CARLA Team, Intel</td>
-      <td rowspan=1 >2023</td>
+<tr align="middle">
+      <td rowspan=5 ><a href="https://carlachallenge.org/" target="_blank" title="CARLA Autonomous Driving Challenge">CARLA Autonomous Driving Challenge</a></td>
+  	  <td rowspan=5 > CARLA Team, Intel</td>
+      <td rowspan=2 >2023</td>
       <td>Planning / CARLA AD Challenge 2.0</td>
-    	<td rowspan=1> - </td>
+    	<td rowspan=2> - </td>
 </tr>
-<tr>
-       <td rowspan=1 >NeurIPS2022</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+       <td rowspan=2 >NeurIPS2022</td>
        <td>Planning / CARLA AD Challenge 1.0</td>
-       <td rowspan=1> 19 </td>
+       <td rowspan=2> 19 </td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td rowspan=1 >NeurIPS2021</td>
        <td>Planning / CARLA AD Challenge 1.0</td>
        <td rowspan=1> - </td>
 </tr>
 
-<tr>
-      <td rowspan=4 ><a href="https://iacc.pazhoulab-huangpu.com/" target="_blank" title="粤港澳大湾区
+<tr align="middle">
+      <td rowspan=7 ><a href="https://iacc.pazhoulab-huangpu.com/" target="_blank" title="粤港澳大湾区
       （黄埔）国际算法算例大赛">粤港澳大湾区
 （黄埔）国际算法算例大赛</a></td>
-  	  <td rowspan=4 > 琶洲实验室</td>
-      <td rowspan=2>2023</td>
+  	  <td rowspan=7> 琶洲实验室</td>
+      <td rowspan=4>2023</td>
        <td>感知 / 跨场景单目深度估计</td>
     	<td> - </td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>感知 / 路侧毫米波雷达标定和目标跟踪</td>
        <td> - </td>
 </tr>
-<tr>
-      <td rowspan=2>2022</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+      <td rowspan=3>2022</td>
        <td>感知 / 路侧三维感知算法</td>
        <td> - </td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>感知 / 街景图像店面招牌文字识别</td>
        <td> - </td>
 </tr>
 
-<tr>
-      <td rowspan=5 ><a href="https://driving-olympics.ai/" target="_blank" title="AI Driving Olympics">AI Driving Olympics</a></td>
-  	  <td rowspan=5 > ETH Zurich, University of Montreal,Motional</td>
+<tr align="middle">
+      <td rowspan=9 ><a href="https://driving-olympics.ai/" target="_blank" title="AI Driving Olympics">AI Driving Olympics</a></td>
+  	  <td rowspan=9 > ETH Zurich, University of Montreal,Motional</td>
       <td> NeurIP2021 </td>
       <td rowspan=1>Perception / nuScenes Panoptic</td>
     	<td> 11 </td>
 </tr>
-<tr>
-      <td rowspan=4>ICRA2021</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+      <td rowspan=7>ICRA2021</td>
        <td>Perception / nuScenes Detection</td>
-       <td rowspan=4> 456 </td>
+       <td rowspan=7> 456 </td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / nuScenes Tracking</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Prediction / nuScenes Prediction</td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td>Perception / nuScenes LiDAR Segmentation</td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td rowspan=1 ><a href="https://cg.cs.tsinghua.edu.cn/jittor/news/2021-1-22-13-14-comp/" target="_blank" title="计图 (Jittor)人工智能算法挑战赛">计图 (Jittor)人工智能算法挑战赛</a></td>
   	  <td rowspan=1 > 国家自然科学基金委信息科学部</td>
       <td> 2021 </td>
@@ -205,7 +244,7 @@ Challenges">Argoverse Challenges</a></td>
     	<td> 37 </td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td rowspan=1 ><a href="https://www.cvlibs.net/datasets/kitti/" target="_blank" title="KITTI Vision Benchmark Suite">KITTI Vision Benchmark Suite</a></td>
   	  <td rowspan=1 > University of Tübingen </td>
       <td> 2012 </td>
@@ -226,14 +265,14 @@ Odometry, Object, Tracking, Road, Semantics</td>
 <!-- 
 <table>
 <capital>感知类数据集：</capital>
-<tr>
+<tr align="middle">
 <th>普通表头</th>
 <th align="right"><i>斜体表头而且居右</th>
 <th colspan=2>表头横向合并单元格</th>
 <td width="80px">限制列宽为80px超出会自动换行</td>
 </tr>
 
-<tr>
+<tr align="middle">
 <th>左边也可以有表头</th>
 <td bgcolor=#ffffcc>涂个颜色</td>
 <td><mark>高亮文本</mark>但不全高亮</td>
@@ -241,7 +280,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
 <td width="20px">20px小于80px服从80px列宽命令无效</td>
 </tr>
 
-<tr>
+<tr align="middle">
 <td>表头不一定是一整行或者一整列的</td>
 <td rowspan=2>纵向合并单元格要注意<br>下一行少一个单元格<br>字太多必要时我会换行</td>
 <td rowspan=2 colspan=2>单元格也可以从两个方向合并</td>
@@ -253,25 +292,26 @@ Odometry, Object, Tracking, Road, Semantics</td>
 
 <table>
 <capital></capital>
-
-<tr>
-    <td rowspan=2 colspan=1>Dataset</td>
-    <td rowspan=2 >Year</td>
-    <td  align="middle" colspan=3 >Diversity</td>
-    <td  align="middle" colspan=3 >Sensor</td>
-    <td rowspan=2 colspan=1>Annotation</td>
-    <td rowspan=2 colspan=1>Paper</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+    <th rowspan=3 colspan=1>Dataset</th>
+    <th rowspan=3 >Year</td>
+    <th  align="middle" colspan=3 >Diversity</th>
+    <th  align="middle" colspan=3 >Sensor</th>
+    <th rowspan=3 colspan=1>Annotation</th>
+    <th rowspan=3 colspan=1>Paper</th>
+</tr> 
+<tr align="middle"> </tr>
+<tr align="middle">
+  	  <th> Scenes</th>
+    	<th> Hours </th>
+    	<th> Region </th>
+  	  <th> Camera</th>
+    	<th> Lidar </th>
+    	<th> Other </th>
 </tr>
-<tr>
-  	  <td> Scenes</td>
-    	<td> Hours </td>
-    	<td> Region </td>
-  	  <td> Camera</td>
-    	<td> Lidar </td>
-    	<td> Other </td>
-</tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://www.cvlibs.net/datasets/kitti/" target="_blank" title="Homepage">KITTI</a></td>  	  
       <td> 2012</td>
     	<td> 50 </td>
@@ -284,7 +324,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://www.cvlibs.net/publications/Geiger2012CVPR.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://www.cityscapes-dataset.com/" target="_blank" title="Homepage">Cityscapes</a></td>  	  <td> 2016</td>
     	<td> - </td>
     	<td> - </td>
@@ -296,7 +336,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1604.01685" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="http://ww1.6d-vision.com/lostandfounddataset" target="_blank" 
       title="Homepage">Lost and Found</a></td>  	  <td> 2016</td>
     	<td> 112 </td>
@@ -309,7 +349,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1609.04653" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://eval-vistas.mapillary.com/" target="_blank" 
       title="Homepage">Mapillary</a></td>  	  
       <td> 2016</td>
@@ -323,7 +363,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://openaccess.thecvf.com/content_ICCV_2017/papers/Neuhold_The_Mapillary_Vistas_ICCV_2017_paper.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="http://sensors.ini.uzh.ch/news_page/DDD17.html" target="_blank" 
       title="Homepage">DDD17</a></td>  	  
       <td> 2017</td>
@@ -337,7 +377,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1711.01458.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/ApolloScapeAuto/dataset-api" target="_blank" 
       title="Homepage">Apolloscape</a></td>  	  
       <td> 2016</td>
@@ -351,7 +391,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1803.06184.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/JinkyuKimUCB/BDD-X-dataset" target="_blank" 
       title="Homepage">BDD-X</a></td>  	  
       <td> 2018</td>
@@ -365,7 +405,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1807.11546.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://usa.honda-ri.com/hdd" target="_blank" 
       title="Homepage">HDD</a></td>  	  
       <td> 2018</td>
@@ -379,7 +419,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1811.02307v1.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://idd.insaan.iiit.ac.in/dataset/details/" target="_blank" 
       title="Homepage">IDD</a></td>  	  
       <td> 2018</td>
@@ -393,7 +433,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1811.10200v1.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="http://semantic-kitti.org/" target="_blank" 
       title="Homepage">SemanticKITTI</a></td>  	  
       <td> 2019</td>
@@ -407,7 +447,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1904.01416.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/valeoai/WoodScape" target="_blank" 
       title="Homepage">Woodscape</a></td>  	  
       <td> 2019 </td>
@@ -421,7 +461,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1905.01489.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://drivingstereo-dataset.github.io/" target="_blank" 
       title="Homepage">DrivingStereo</a></td>  	  
       <td> 2019 </td>
@@ -435,7 +475,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://ieeexplore.ieee.org/document/8954165/" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/Robotics-BUT/Brno-Urban-Dataset" target="_blank" 
       title="Homepage">Brno-Urban</a></td>  	  
       <td> 2019 </td>
@@ -450,7 +490,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1909.06897.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/I2RDL2/ASTAR-3D" target="_blank" 
       title="Homepage">A*3D</a></td>  	  
       <td> 2019 </td>
@@ -464,7 +504,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1909.07541v1.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/talk2car/Talk2Car" target="_blank" 
       title="Homepage">Talk2Car</a></td>  	  
       <td> 2019 </td>
@@ -478,7 +518,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1909.10838.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://data.vision.ee.ethz.ch/arunv/personal/talk2nav.html" target="_blank" 
       title="Homepage">Talk2Nav</a></td>  	  
       <td> 2019 </td>
@@ -492,7 +532,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1910.02029.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/aras62/PIEPredict" target="_blank" 
       title="Homepage">PIE</a></td>  	  
       <td> 2019 </td>
@@ -506,7 +546,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/weisongwen/UrbanLoco" target="_blank" 
       title="Homepage">UrbanLoco</a></td>  	  
       <td> 2019 </td>
@@ -520,7 +560,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1912.09513.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://usa.honda-ri.com/titan" target="_blank" 
       title="Homepage">TITAN</a></td>  	  
       <td> 2019 </td>
@@ -534,7 +574,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/2003.13886.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://usa.honda-ri.com/H3D" target="_blank" 
       title="Homepage">H3D </a></td>  	  
       <td> 2019 </td>
@@ -548,7 +588,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1903.01568.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://www.a2d2.audi/a2d2/en/download.html" target="_blank" 
       title="Homepage">A2D2</a></td>  	  
       <td> 2020 </td>
@@ -562,7 +602,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/2004.06320.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/valeoai/carrada_dataset" target="_blank" 
       title="Homepage">CARRADA</a></td>  	  
       <td> 2020 </td>
@@ -576,7 +616,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2005.01456.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://data.mendeley.com/datasets/766ygrbt8y/3" target="_blank" 
       title="Homepage">DAWN</a></td>  	  
       <td> 2019  </td>
@@ -590,7 +630,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2008.05402.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/pmwenzel/4seasons-dataset" target="_blank" 
       title="Homepage">4Seasons</a></td>  	  
       <td> 2019</td>
@@ -604,7 +644,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2009.06364.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/sauradip/night_image_semantic_segmentation#Urban%20Night%20Driving%20Dataset" target="_blank" 
       title="Homepage">UNDD</a></td>  	  
       <td> 2019 </td>
@@ -619,7 +659,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
 " target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="http://www.poss.pku.edu.cn/" target="_blank" 
       title="Homepage">SemanticPOSS</a></td>  	  
       <td> 2020 </td>
@@ -633,7 +673,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2002.09147.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/WeikaiTan/Toronto-3D" target="_blank" 
       title="Homepage">Toronto-3D</a></td>  	  
       <td> 2020 </td>
@@ -647,7 +687,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w11/Tan_Toronto-3D_A_Large-Scale_Mobile_LiDAR_Dataset_for_Semantic_Segmentation_of_CVPRW_2020_paper.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/gurkirt/road-dataset" target="_blank" 
       title="Homepage">ROAD</a></td>  	  
       <td> 2021 </td>
@@ -661,7 +701,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2102.11585.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/bassam-motional/Reasonable-Crowd" target="_blank" 
       title="Homepage">Reasonable Crowd</a></td>  	  
       <td> 2021 </td>
@@ -675,7 +715,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2107.13507.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://gamma.umd.edu/researchdirections/autonomousdriving/meteor/" target="_blank" 
       title="Homepage">METEOR</a></td>  	  
       <td> 2021 </td>
@@ -689,7 +729,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2109.07648.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/scaleapi/pandaset-devkit" target="_blank" 
       title="Homepage">PandaSet</a></td>  	  
       <td> 2021 </td>
@@ -703,7 +743,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2112.12610.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/ENSTA-U2IS/MUAD-Dataset" target="_blank" 
       title="Homepage">MUAD</a></td>  	  
       <td> 2022 </td>
@@ -717,7 +757,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2203.01437.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://mucar3.de/iros2022-ppniv-tas-nir/" target="_blank" 
       title="Homepage">TAS-NIR</a></td>  	  
       <td> 2022 </td>
@@ -731,7 +771,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2212.09368.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/LiDAR-Perception/LiDAR-CS" target="_blank" 
       title="Homepage">LiDAR-CS</a></td>  	  
       <td> 2022 </td>
@@ -745,7 +785,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2301.12515.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://wilddash.cc/" target="_blank" 
       title="Homepage">WildDash </a></td>  	  
       <td> 2022 </td>
@@ -759,7 +799,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Oliver_Zendel_WildDash_-_Creating_ECCV_2018_paper.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/OpenDriveLab/OpenScene" target="_blank" 
       title="Homepage">OpenScene</a></td>  	  
       <td> 2023 </td>
@@ -773,7 +813,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2211.15654.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://www.nuscenes.org/" target="_blank" 
       title="Homepage">nuScenes</a></td>  	  
       <td> 2019 </td>
@@ -787,7 +827,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1903.11027.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://www.argoverse.org/av1.html" target="_blank" 
       title="Homepage">Argoverse V1</a></td>  	  
       <td> 2019 </td>
@@ -801,7 +841,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/1911.02620.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/waymo-research/waymo-open-dataset" target="_blank" 
       title="Homepage">Waymo</a></td>  	  
       <td> 2019 </td>
@@ -815,7 +855,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1912.04838.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/autonomousvision/kitti360Scripts" target="_blank" 
       title="Homepage">KITTI-360</a></td>  	  
       <td> 2020 </td>
@@ -829,7 +869,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2109.13410.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://once-for-auto-driving.github.io/index.html" target="_blank" 
       title="Homepage">ONCE</a></td>  	  
       <td> 2021  </td>
@@ -843,7 +883,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/2106.11037.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://www.nuscenes.org/nuplan" target="_blank" 
       title="Homepage">nuPlan </a></td>  	  
       <td> 2021 </td>
@@ -857,7 +897,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2106.11810.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://www.argoverse.org/av2.html" target="_blank" 
       title="Homepage">Argoverse V2</a></td>  	  
       <td> 2022 </td>
@@ -871,7 +911,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/pdf/2301.00493.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/OpenDriveLab/DriveLM" target="_blank" 
       title="Homepage">DriveLM </a></td>  	  
       <td> 2023 </td>
@@ -884,8 +924,8 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td>Language </td>
       <td><a href="https://github.com/OpenDriveLab/DriveLM" target="_blank" title="Homepage">Link</a></td>
 </tr>
-<tr>
-<tr>
+<tr align="middle">
+<tr align="middle">
 </table>
 
 </table>
@@ -897,27 +937,28 @@ Odometry, Object, Tracking, Road, Semantics</td>
 
 <table>
 <capital></capital>
-
-<tr>
-    <td rowspan=2 colspan=1>Dataset</td>
-    <td rowspan=2 >Year</td>
-    <td  align="middle" colspan=2 >Diversity</td>
-    <td  align="middle" colspan=2 >Sensor</td>
-    <td  align="middle" colspan=4 >Annotation</td>
-    <td rowspan=2 colspan=1>Paper</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+    <th rowspan=3 colspan=1>Dataset</td>
+    <th rowspan=3 >Year</td>
+    <th  align="middle" colspan=2 >Diversity</th>
+    <th  align="middle" colspan=2 >Sensor</th>
+    <th  align="middle" colspan=4 >Annotation</th>
+    <th rowspan=3 colspan=1>Paper</th>
 </tr>
-<tr>
-  	  <td> Scenes</td>
-    	<td> Frames </td>
-  	  <td> Camera</td>
-    	<td> Lidar </td>
-    	<td> Type </td>
-    	<td> Space </td>
-    	<td> Inst. </td>
-    	<td> Track </td>
+<tr align="middle"> </tr>
+<tr align="middle">
+  	  <th> Scenes</th>
+    	<th> Frames </th>
+  	  <th> Camera</th>
+    	<th> Lidar </th>
+    	<th> Type </th>
+    	<th> Space </th>
+    	<th> Inst. </th>
+    	<th> Track </th>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://www.cvlibs.net/datasets/kitti/" target="_blank" title="Homepage">Caltech Lanes</a></td>
   	  <td> 2008</td>
       <td>4</td>
@@ -931,7 +972,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://www.cvlibs.net/datasets/kitti/" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/SeokjuLee/VPGNet" target="_blank" title="Homepage">VPG</a></td>
   	  <td> 2017</td>
       <td>-</td>
@@ -945,7 +986,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://openaccess.thecvf.com/content_iccv_2017/html/Lee_VPGNet_Vanishing_Point_ICCV_2017_paper.html" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/TuSimple/tusimple-benchmark" target="_blank" title="Homepage">TUsimple</a></td>
   	  <td> 2017</td>
       <td>6.4K</td>
@@ -959,7 +1000,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://github.com/TuSimple/tusimple-benchmark" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://xingangpan.github.io/projects/CULane.html" target="_blank" title="Homepage">CULane</a></td>
   	  <td> 2018</td>
       <td>-</td>
@@ -973,7 +1014,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1712.06080.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/ApolloScapeAuto/dataset-api" target="_blank" title="Homepage">ApolloScape</a></td>
   	  <td> 2018 </td>
       <td>235</td>
@@ -987,7 +1028,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/1803.06184.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://unsupervised-llamas.com/llamas/" target="_blank" title="Homepage">LLAMAS</a></td>
   	  <td> 2019</td>
       <td>14</td>
@@ -1001,7 +1042,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://ieeexplore.ieee.org/document/9022318" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection" target="_blank" title="Homepage">3D Synthetic</a></td>
   	  <td> 2020</td>
       <td>-</td>
@@ -1015,7 +1056,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2003.10656.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/SoulmateB/CurveLanes" target="_blank" title="Homepage">CurveLanes</a></td>
   	  <td> 2020</td>
       <td>-</td>
@@ -1029,7 +1070,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2007.12147.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/yujun0-0/mma-net" target="_blank" title="Homepage">VIL-100</a></td>
   	  <td> 2021 </td>
       <td>100 </td>
@@ -1043,7 +1084,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2108.08482.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://github.com/OpenDriveLab/OpenLane" target="_blank" title="Homepage">OpenLane-V1</a></td>
   	  <td> 2022</td>
       <td>1K </td>
@@ -1057,7 +1098,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://arxiv.org/abs/2203.11089.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
       <td><a href="https://once-3dlanes.github.io/" target="_blank" title="Homepage">ONCE-3DLane</a></td>
   	  <td> 2022 </td>
       <td>-</td>
@@ -1071,7 +1112,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_ONCE-3DLanes_Building_Monocular_3D_Lane_Detection_CVPR_2022_paper.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
-<tr>
+<tr align="middle">
        <td><a href="https://github.com/OpenDriveLab/OpenLane-V2" target="_blank" title="Homepage">OpenLane-V2</a></td>
   	  <td> 2023 </td>
       <td>2K </td>
@@ -1084,7 +1125,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
       <td>✓</td>
       <td><a href="https://arxiv.org/abs/2304.10440.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
-<tr>
+<tr align="middle">
 </tr>
 
 
@@ -1097,76 +1138,86 @@ Odometry, Object, Tracking, Road, Semantics</td>
 
 <table>
 <capital></capital>
-
-<tr>
-    <td rowspan=1 colspan=1>Subtask</td>
-    <td rowspan=1 > Input</td>
-    <td  colspan=1 >Output</td>
-    <td  colspan=1 >Evaluation</td>
-    <td  colspan=1 >Dataset</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+    <th rowspan=1 colspan=1>Subtask</th>
+    <th rowspan=1 > Input</th>
+    <th  colspan=1 >Output</th>
+    <th  colspan=1 >Evaluation</th>
+    <th  colspan=1 >Dataset</th>
 </tr>
 
-<tr>
-  	  <td rowspan=4 > Motion Prediction</td>
-    	<td  rowspan=4> Surrounding Traffic States </td>
-  	  <td  rowspan=4 > Spatiotemporal Trajectories of Single/Multiple Vehicle(s) </td>
-    	<td  rowspan=4 > Displacement Error </td>
+<tr align="middle">
+  	  <td rowspan=7 > Motion Prediction</td>
+    	<td  rowspan=7> Surrounding Traffic States </td>
+  	  <td  rowspan=7 > Spatiotemporal Trajectories of Single/Multiple Vehicle(s) </td>
+    	<td  rowspan=7 > Displacement Error </td>
       <td><a href="https://www.argoverse.org" target="_blank" 
       title="Homepage">Argoverse</a></td> 
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
       <td><a href="https://www.nuscenes.org/" target="_blank" 
       title="Homepage">nuScenes</a></td>  
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
     	<td><a href="https://github.com/waymo-research/waymo-open-dataset" target="_blank" 
       title="Homepage">Waymo</a></td>   
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
       <td><a href="https://github.com/interaction-dataset/interaction-dataset" target="_blank" 
       title="Homepage">Interaction</a></td>  
 </tr>
 
-<tr>
-  	  <td rowspan=4 > Trajectory Planning</td>
-    	<td  rowspan=4> Motion States for Ego Vehicles, Scenario Cognition and Prediction </td>
-  	  <td  rowspan=4 > Trajectories for Ego Vehicles </td>
-    	<td  rowspan=4 > Displacement Error, Safety, Compliance, Comfort </td>
+<tr align="middle">
+  	  <td rowspan=7 > Trajectory Planning</td>
+    	<td  rowspan=7> Motion States for Ego Vehicles, Scenario Cognition and Prediction </td>
+  	  <td  rowspan=7 > Trajectories for Ego Vehicles </td>
+    	<td  rowspan=7 > Displacement Error, Safety, Compliance, Comfort </td>
       <td><a href="https://www.nuscenes.org/nuplan" target="_blank" 
       title="Homepage">nuPlan </a></td>  	 
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
       <td><a href="https://carlachallenge.org/" target="_blank" 
       title="Homepage"> CARLA </a></td> 
-</tr>    
-<tr>
+</tr>   
+<tr align="middle"> </tr>
+<tr align="middle">
       <td><a href="https://github.com/metadriverse/metadrive" target="_blank" title="Homepage">MetaDrive</a></td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
       <td><a href="https://github.com/ApolloScapeAuto/dataset-api" target="_blank" title="Homepage">Apollo</a></td>
 </tr>
 
-<tr>
-  	  <td rowspan=5 > Path Planning</td>
-    	<td  rowspan=5> Maps for Road Network</td>
-  	  <td  rowspan=5 > Routes Connecting to Nodes and Links </td>
-    	<td  rowspan=5 > Efficiency, Energy Conservation </td>
+<tr align="middle">
+  	  <td rowspan=9 > Path Planning</td>
+    	<td  rowspan=9> Maps for Road Network</td>
+  	  <td  rowspan=9 > Routes Connecting to Nodes and Links </td>
+    	<td  rowspan=9 > Efficiency, Energy Conservation </td>
       <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4653466" target="_blank" 
       title="Homepage">OpenStreetMap </a></td> 
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
       <td><a href="https://github.com/bstabler/TransportationNetworks" target="_blank" 
       title="Homepage">Transportation Networks </a></td>
-</tr>    
-<tr>
+</tr>  
+<tr align="middle"> </tr>
+<tr align="middle">
        <td><a href="https://github.com/asu-trans-ai-lab/DTALite" target="_blank" 
       title="Homepage"> DTAlite </a></td>
 </tr>
-<tr>
+<tr align="middle"> </tr>
+<tr align="middle">
        <td><a href="https://dot.ca.gov/programs/traffic-operations/mpr/pems-source" target="_blank" 
       title="Homepage">PeMS  </a></td>
 </tr>
-<tr> 
+<tr align="middle"> </tr>
+<tr align="middle"> 
       <td><a href="https://github.com/toddwschneider/nyc-taxi-data" target="_blank" 
       title="Homepage">New York City Taxi Data  </a></td>
 </tr>
@@ -1181,30 +1232,18 @@ Odometry, Object, Tracking, Road, Semantics</td>
 
 <table>
 <capital></capital>
-
-<tr>
-    <td rowspan=1 colspan=1>Solution  </td>
-    <td  align="middle" colspan=1 >Data Catelog </td>
-    <td  align="middle" colspan=1 >Data Retrieval </td>
-    <td  align="middle" colspan=1 >Auto-labeling </td>
-    <td  align="middle" colspan=1 >Model Training </td>
-    <td  align="middle" colspan=1 >Simulation </td>
-    <td  align="middle" colspan=1 >Open-Source </td>
+<tr align="middle"> </tr>
+<tr align="middle">
+    <th rowspan=1 colspan=1>Solution  </td>
+    <th  align="middle" colspan=1 >Data Catelog </th>
+    <th  align="middle" colspan=1 >Data Retrieval </th>
+    <th  align="middle" colspan=1 >Auto-labeling </th>
+    <th  align="middle" colspan=1 >Model Training </th>
+    <th  align="middle" colspan=1 >Simulation </th>
+    <th  align="middle" colspan=1 >Open-Source </th>
 </tr>
 
-
-
-<tr>
-  	  <td>Autonomous Driving Data Framework (ADDF)</td>
-    	<td> Scene Description via Scene Metadata </td>
-    	<td> OpenSearch </td>
-  	  <td>  Object and Lane Detection via Open-source Models </td>
-    	<td> ✓  </td>
-    	<td>✓</td>
-    	<td> ✓</td>   
-</tr>
-
-<tr>
+<tr align="middle">
   	  <td>Full Self Driving (FSD)</td>
     	<td colspan=2> Misprediction Identification, Label Correction,
 and Selection on Most Valuable Examples</td>
@@ -1217,7 +1256,7 @@ in Minutes
 </td>  
 </tr>
 
-<tr>
+<tr align="middle">
   	  <td>MagLev</td>
     	<td> Generating Dataset
 via Searching, Collection,
@@ -1232,7 +1271,7 @@ and Parallel Evaluation  </td>
     	<td> ✓</td>   
 </tr>
 
-<tr>
+<tr align="middle">
   	  <td>OpenTrek</td>
     	<td> - </td>
     	<td> Multi-modal Retrieval
@@ -1254,28 +1293,28 @@ Similarity, etc.
 
 <table>
 <capital></capital>
-
-<tr>
-    <td rowspan=2 colspan=1>Company </td>
-    <td  align="middle" colspan=5 >Point Cloud</td>
-    <td  align="middle" colspan=5 >Image</td>
+<tr align="middle"> </tr>
+<tr align="middle">
+    <th rowspan=3 colspan=1>Company </th>
+    <th  align="middle" colspan=5 >Point Cloud</th>
+    <th  align="middle" colspan=5 >Image</th>
   
 </tr>
-
-<tr>
-  	  <td>3D Seg</td>
-    	<td> Price </td>
-    	<td> 3D BBox </td>
-  	  <td>  Price </td>
-    	<td> 3D BBox-c </td>
-    	<td>2D Seg</td>
-    	<td> Price </td>
-    	<td> 2D BBox </td>
-  	  <td>  Price </td>
-    	<td> 2D BBox-c </td>
+<tr align="middle"> </tr>
+<tr align="middle">
+  	  <th>3D Seg</th>
+    	<th> Price </th>
+    	<th> 3D BBox </th>
+  	  <th>  Price </th>
+    	<th> 3D BBox-c </th>
+    	<th>2D Seg</th>
+    	<th> Price </th>
+    	<th> 2D BBox </th>
+  	  <th>  Price </th>
+    	<th> 2D BBox-c </th>
 </tr>
 
-<tr>
+<tr align="middle">
   	   <td> Sagemaker Ground Truth </td>
       <td> MA  </td>
     	<td> - </td>
@@ -1289,7 +1328,7 @@ Similarity, etc.
       <td>SA </td>
 </tr>
 
-<tr>
+<tr align="middle">
   	   <td> 智能云 </td>
       <td> MA  </td>
     	<td> 0.3  </td>
@@ -1303,7 +1342,7 @@ Similarity, etc.
       <td>MA </td>
 </tr>
 
-<tr>
+<tr align="middle">
   	   <td> VOTT </td>
       <td> ✗   </td>
     	<td> - </td>
@@ -1317,7 +1356,7 @@ Similarity, etc.
       <td>SA </td>
 </tr>
 
-<tr>
+<tr align="middle">
   	  <td> Data Pro  </td>
       <td> SA  </td>
     	<td> 0.25 </td>
@@ -1332,7 +1371,7 @@ Similarity, etc.
 </tr>
 
 
-<tr>
+<tr align="middle">
   	  <td> Multi-sensor Labeling Platform   </td>
       <td> SA  </td>
     	<td> - </td>
@@ -1346,7 +1385,7 @@ Similarity, etc.
       <td>SA </td>
 </tr>
 
-<tr>
+<tr align="middle">
   	  <td> Data Engine  </td>
       <td> SA  </td>
     	<td> - </td>
