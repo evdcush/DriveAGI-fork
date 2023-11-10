@@ -319,7 +319,7 @@ Odometry, Object, Tracking, Road, Semantics</td>
   	  <td> EU</td>
     	<td> Font-view </td>
       <td> ✗</td>
-    	<td> GPS&IMU </td>
+    	<td> GPS & IMU </td>
       <td>2D BBox & 3D BBox</td>
       <td><a href="https://www.cvlibs.net/publications/Geiger2012CVPR.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
@@ -480,13 +480,12 @@ Odometry, Object, Tracking, Road, Semantics</td>
       title="Homepage">Brno-Urban</a></td>  	  
       <td> 2019 </td>
     	<td> 67</td>
-    	<td> 10 </
+    	<td> 10 </td>
   	  <td> EU</td>
     	<td> Front-view </td>
       <td> ✓  </td>
     	<td> GPS & IMU & Infrared Camera </td>
       <td> -</td>
-       <td> -</td>
       <td><a href="https://arxiv.org/abs/1909.06897.pdf" target="_blank" title="Homepage">Link</a></td>
 </tr>
 
